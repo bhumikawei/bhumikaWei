@@ -1,4 +1,4 @@
-###hi, I'm Bhumika!
+Hi, I'm Bhumika!
 
 🎨 I design pixels, 💻 wrangle code, and 💥 occasionally break things just to see how they tick.<br>
 🎯 UI/UX junkie in training — because if it isn’t ✨ sexy and usable, what’s the point?<br>
