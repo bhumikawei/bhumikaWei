@@ -7,4 +7,4 @@ Hi, I'm Bhumika!
 
 ⚡ I code like I live — a bit wild 🐅, full of experiments 🧪, and always pushing the limits 🚀 of what’s “normal.”<br>
 
-![Bhumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikaWei&show_icons=true&theme=radical)
+
